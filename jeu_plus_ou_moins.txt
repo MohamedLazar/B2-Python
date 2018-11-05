@@ -1,0 +1,2 @@
+Veuillez saisir un chiffre entre 0 et 100 : 
+
